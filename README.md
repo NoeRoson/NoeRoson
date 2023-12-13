@@ -3,26 +3,29 @@
 
 ![](https://i.imgur.com/7lJ1gut.gif)
 
-
+<br>
 
 ### 🔮 &nbsp;About me
 - 🌱 I’m currently learning ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=powerbi)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a social worker and criminologist, as well as a data analyst.
 
+<br>
+
 ### 🔩 &nbsp;Tools
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat-square&logo=jupyter)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau)
+![Python](https://img.shields.io/badge/-Python-B1DDBC?style=flat-square&logo=python)
+![Jupyter](https://img.shields.io/badge/-Jupyter-B1DDBC?style=flat-square&logo=jupyter)
+![MySQL](https://img.shields.io/badge/-MySQL-B1DDBC?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-B1DDBC?style=flat-square&logo=mongodb)
+![Tableau](https://img.shields.io/badge/-Tableau-B1DDBC?style=flat-square&logo=tableau)
 
-
+<br>
 
 ### 💌 &nbsp;Contact me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/noeliaroson/)](https://www.linkedin.com/in/noeliaroson/)
-[![Email](https://img.shields.io/badge/¡Send%20an%20email!-blue?style=flat-square&logo=gmail)](mailto:noelia.roson@gmail.com)
+[![Email](https://img.shields.io/badge/¡Send%20an%20email!-F5ADAD?style=flat-square&logo=gmail)](mailto:noelia.roson@gmail.com)
 
+<br>
 
 ### 📊 &nbsp;GitHub Analytics
 
