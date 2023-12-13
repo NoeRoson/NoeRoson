@@ -6,7 +6,7 @@
 <br>
 
 ### 🔮 &nbsp;About me
-- 🌱 I’m currently learning ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=flat-square&logo=powerbi)
+- 🌱 I’m currently learning ![Power BI](https://img.shields.io/badge/-Power%20BI-F5F0AD?style=flat-square&logo=powerbi)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a social worker and criminologist, as well as a data analyst.
 
